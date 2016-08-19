@@ -1,4 +1,4 @@
 __author__ = 'brandonxiang'
 __data__ = 'May 2016'
 
-from wgs2gcj import convert
+from geojson_utils import wgs2gcj, gcj2bd
